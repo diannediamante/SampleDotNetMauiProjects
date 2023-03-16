@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QhqeXcG8YNUx4ZR1zo4wgMEOpoljLpcX3TTOa3r6kmpmjtnWgXyRC7YTcMTYZrgRd4x5yQuxnUHOgMFcV2TwCQ==",
+  "dgSpecHash": "rka4k1tdd7hl5p+ckubiWpm3JkhBCJ5D+2k25pTxnJo4B95mL4sAiXrXL4ePFZzb0CC9+1lqIBAj7ihNFLWM0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DEV-DIANNE\\Desktop\\SmplToDoApplication\\SmplToDoApplication\\SmplToDoApplication.csproj",
+  "projectFilePath": "C:\\Users\\DEV-DIANNE\\Desktop\\SampleDotNetMauiProjects\\SmplToDoApplication\\SmplToDoApplication\\SmplToDoApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DEV-DIANNE\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.0-preview1\\communitytoolkit.mvvm.8.2.0-preview1.nupkg.sha512",
     "C:\\Users\\DEV-DIANNE\\.nuget\\packages\\googlegson\\2.9.1.1\\googlegson.2.9.1.1.nupkg.sha512",

@@ -24566,11 +24566,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DEV-DIANNE\\Desktop\\SmplToDoApplication\\SmplToDoApplication\\SmplToDoApplication.csproj",
+      "projectUniqueName": "C:\\Users\\DEV-DIANNE\\Desktop\\SampleDotNetMauiProjects\\SmplToDoApplication\\SmplToDoApplication\\SmplToDoApplication.csproj",
       "projectName": "SmplToDoApplication",
-      "projectPath": "C:\\Users\\DEV-DIANNE\\Desktop\\SmplToDoApplication\\SmplToDoApplication\\SmplToDoApplication.csproj",
+      "projectPath": "C:\\Users\\DEV-DIANNE\\Desktop\\SampleDotNetMauiProjects\\SmplToDoApplication\\SmplToDoApplication\\SmplToDoApplication.csproj",
       "packagesPath": "C:\\Users\\DEV-DIANNE\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DEV-DIANNE\\Desktop\\SmplToDoApplication\\SmplToDoApplication\\obj\\",
+      "outputPath": "C:\\Users\\DEV-DIANNE\\Desktop\\SampleDotNetMauiProjects\\SmplToDoApplication\\SmplToDoApplication\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
